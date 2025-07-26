@@ -1,1 +1,3 @@
 Full-Stack Stock Trading Platform is a web application built with React.js, Node.js, Express, and MongoDB that allows users to simulate real-time stock trading. It features secure JWT authentication, live stock price updates via third-party APIs, and portfolio management. The frontend is styled with Tailwind CSS, and real-time updates are handled using Socket.IO. This project showcases full-stack development with real-world financial data integration.
+
+🔗 Check out the live demo of the Full-Stack Stock Trading Platform here: https://prismatic-biscotti-f13a1e.netlify.app/  – Dive into real-time trading simulation with a sleek UI and dynamic data updates!
