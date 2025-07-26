@@ -1,1 +1,1 @@
-# Full-Stack-Stock-Trading-Platform
+Full-Stack Stock Trading Platform is a web application built with React.js, Node.js, Express, and MongoDB that allows users to simulate real-time stock trading. It features secure JWT authentication, live stock price updates via third-party APIs, and portfolio management. The frontend is styled with Tailwind CSS, and real-time updates are handled using Socket.IO. This project showcases full-stack development with real-world financial data integration.
